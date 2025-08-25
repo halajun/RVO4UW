@@ -1,0 +1,17 @@
+./Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt Examples/Stereo/KITTI00-02.yaml /Users/steed/work/kitti_vo/dataset/sequences/00
+
+./Examples/Stereo/stereo_euroc Vocabulary/ORBvoc.txt Examples/Stereo/EuRoC.yaml PATH_TO_SEQUENCE/cam0/data PATH_TO_SEQUENCE/cam1/data Examples/Stereo/EuRoC_TimeStamps/SEQUENCE.txt
+
+./Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt /Users/steed/work/Coral_undistorted/underwater.yaml /Users/steed/work/Coral_undistorted
+
+./Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt /Users/steed/work/ScottReef25/scottreef.yaml /Users/steed/work/ScottReef25/undistorted
+
+./Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt /Users/steed/work/TasmaniaOHara7/ohara.yaml /Users/steed/work/TasmaniaOHara7/undistorted
+
+./Examples/Stereo/stereo_kitti Vocabulary/ORBvoc.txt /Users/steed/work/ShipWreck/shipwreck.yaml /Users/steed/work/Shipwreck
+
+
+
+
+
+
